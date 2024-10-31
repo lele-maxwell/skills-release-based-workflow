@@ -105,9 +105,14 @@ section {
   display: block;
 }
 body {
+ compare
+      background-color: black; /* Add background-color declaration here */
+    }
+
     background-color: black;
    /* Add background-color declaration here */
 }
+release-v1.0
 ol,
 ul {
   list-style: none;
@@ -139,3 +144,5 @@ table {
 canvas {
   background-color: black;
 }
+
+
