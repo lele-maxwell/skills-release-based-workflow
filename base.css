@@ -105,8 +105,14 @@ section {
   display: block;
 }
 body {
-      background-color: bkack; /* Add background-color declaration here */
+ compare
+      background-color: black; /* Add background-color declaration here */
     }
+
+    background-color: black;
+   /* Add background-color declaration here */
+}
+release-v1.0
 ol,
 ul {
   list-style: none;
